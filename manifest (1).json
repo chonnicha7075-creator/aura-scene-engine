@@ -1,0 +1,12 @@
+{
+    "display_name": "AURA — Scene Atmosphere Engine",
+    "name": "aura-scene-engine",
+    "version": "1.0.0",
+    "no_reload": false,
+    "author": "chonnicha7075-creator",
+    "homePage": "https://github.com/chonnicha7075-creator/aura-scene-engine",
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css"
+}
